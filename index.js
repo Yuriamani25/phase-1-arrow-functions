@@ -1,6 +1,7 @@
 
-
-const divide = (a = 2000, b = 100) => a / b
+function divide(a = 2000, b = 100) {
+    return a/b
+}
 
 const square = (x = 2) => x*x
 
